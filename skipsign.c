@@ -3,7 +3,7 @@
  *
  * Copyright 2014, Michael Schierl <schierlm@gmx.de>
  *
- * Based on efitools, which is
+ * Based on the Linux Foundation's PreLoader, which is
  *
  * Copyright 2012 <James.Bottomley@HansenPartnership.com>
  *
